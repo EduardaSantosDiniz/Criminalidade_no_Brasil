@@ -25,7 +25,7 @@ A etapa de limpeza e preparação dos dados eu considero um dos mais importantes
 ![image](https://github.com/user-attachments/assets/ef68830c-94db-48d7-a09a-8b1897be3d1f)
 
 
-**Número de cada crime em cada estado de 2017 e dps de 2022**
+**Quais crimes mais cresceram ou diminuíram?2**
 
 ![image](https://github.com/user-attachments/assets/214ec6ab-ecef-4a24-8264-2244b29f57ec)
 
