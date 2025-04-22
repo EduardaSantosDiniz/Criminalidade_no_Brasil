@@ -4,7 +4,7 @@
  - Top 3 crimes que mais aconteceram divido por ano   
  - Número de cada crime em cada estado de 2017 e depois de 2022 
  - Quais crimes mais cresceram ou diminuíram?  
- - Comparação entre estados do Norte, Nordeste, Sul, Sudeste e Centro-Oeste. 
+ - Comparação entre estados do Norte, Nordeste, Sul, Sudeste e Centro-Oeste.  
  - Média de crimes por estado ao longo dos anos.
 # 2️⃣Coleta de Dados    
 Essa aqui é a nossa base sem nenhuma alteração
