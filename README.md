@@ -15,7 +15,7 @@ Essa aqui é a nossa base sem nenhuma alteração
 # 3️⃣ Limpeza e Preparação dos Dados 
 A etapa de limpeza e preparação dos dados eu considero um dos mais importantes antes de começar a interpretá-los, porém nessa base de dados, todas as informações estão dentro do padrão necessário.
 
-# 4️⃣ Análise Exploratória de Dados (EDA - Exploratory Data Analysis)
+# 4️⃣ Análise Exploratória de Dados (EDA - Exploratory Data Analysis) 
 **Média de crimes por estado ao longo dos anos.**
 
 ![image](https://github.com/user-attachments/assets/77526ed9-d65d-4301-8c8c-e226bdb4b50d)
