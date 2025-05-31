@@ -2,7 +2,7 @@
  - O brasil diminui seus crimes com o passar do tempo?     
  - Top 3 crimes que mais acontecem em cada uf   
  - Top 3 crimes que mais aconteceram divido por ano          
- - Número de cada crime em cada estado de 2017 e depois de 2022          
+ - Número de cada crime em cada estado de 2017 e depois de 2022           
  - Quais crimes mais cresceram ou diminuíram?        
  - Comparação entre estados do Norte, Nordeste, Sul, Sudeste e Centro-Oeste.         
  - Média de crimes por estado ao longo dos anos.          
