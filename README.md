@@ -12,7 +12,7 @@ Essa aqui é a nossa base sem nenhuma alteração
              
    ![{95408C6C-1E43-4212-8AAE-1A80BD094688}](https://github.com/user-attachments/assets/4bd39923-6b6a-4916-92ea-0dfa26017801) 
     
-    
+     
 # 3️⃣ Limpeza e Preparação dos Dados 
 A etapa de limpeza e preparação dos dados eu considero uma das mais importantes antes de começar a interpretá-los, porém nessa base de dados, todas as informações estão dentro do padrão necessário.
 
