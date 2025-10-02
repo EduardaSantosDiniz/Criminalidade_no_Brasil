@@ -48,7 +48,7 @@ A etapa de limpeza e preparação dos dados eu considero uma das mais importante
 
 
 ##  5️⃣ Resolução do Problema
-**Sobre a pergunta principal:**
+**Sobre a pergunta principal:** 
 
 O objetivo principal desta análise é determinar se, ao longo do tempo, os índices de criminalidade no Brasil apresentaram redução. Os resultados indicam que, de fato, houve uma queda significativa nos crimes. No entanto, ao observar o gráfico e considerar o contexto histórico, torna-se evidente que essa redução não está diretamente relacionada a um aumento da segurança pública ou a políticas eficazes de combate à criminalidade. Em vez disso, é provável que a diminuição tenha ocorrido devido às restrições de mobilidade impostas durante a pandemia de COVID-19, que limitaram a circulação de pessoas e, consequentemente, a ocorrência de delitos.
 
