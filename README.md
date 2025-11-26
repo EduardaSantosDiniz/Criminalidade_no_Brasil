@@ -7,7 +7,7 @@
  - Comparação entre estados do Norte, Nordeste, Sul, Sudeste e Centro-Oeste.                      
  - Média de crimes por estado ao longo dos anos.                   
 # 2️⃣Coleta de Dados       
- 
+  
  Essa aqui é a nossa base sem nenhuma alteração    
                 
    ![{95408C6C-1E43-4212-8AAE-1A80BD094688}](https://github.com/user-attachments/assets/4bd39923-6b6a-4916-92ea-0dfa26017801) 
